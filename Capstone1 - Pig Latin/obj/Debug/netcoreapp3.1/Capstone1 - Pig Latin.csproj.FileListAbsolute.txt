@@ -1,0 +1,13 @@
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\bin\Debug\netcoreapp3.1\Capstone1 - Pig Latin.exe
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\bin\Debug\netcoreapp3.1\Capstone1 - Pig Latin.deps.json
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\bin\Debug\netcoreapp3.1\Capstone1 - Pig Latin.runtimeconfig.json
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\bin\Debug\netcoreapp3.1\Capstone1 - Pig Latin.runtimeconfig.dev.json
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\bin\Debug\netcoreapp3.1\Capstone1 - Pig Latin.dll
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\bin\Debug\netcoreapp3.1\Capstone1 - Pig Latin.pdb
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\obj\Debug\netcoreapp3.1\Capstone1 - Pig Latin.csprojAssemblyReference.cache
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\obj\Debug\netcoreapp3.1\Capstone1 - Pig Latin.AssemblyInfoInputs.cache
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\obj\Debug\netcoreapp3.1\Capstone1 - Pig Latin.AssemblyInfo.cs
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\obj\Debug\netcoreapp3.1\Capstone1 - Pig Latin.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\obj\Debug\netcoreapp3.1\Capstone1 - Pig Latin.dll
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\obj\Debug\netcoreapp3.1\Capstone1 - Pig Latin.pdb
+D:\GrandCircus\Week1\Capstone1 - Pig Latin\Capstone1 - Pig Latin\Capstone1 - Pig Latin\obj\Debug\netcoreapp3.1\Capstone1 - Pig Latin.genruntimeconfig.cache
